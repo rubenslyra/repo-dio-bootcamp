@@ -47,7 +47,7 @@ Vale muito a pena consultar o [Can I Use](https://caniuse.com/?search=flexible%2
 
 ### Referências
 
-- [Can I Use]([Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=flexible%20box%20modu);)
+- [Can I Use](https://caniuse.com/?search=flexible%20box%20modu)
 
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox)
 
