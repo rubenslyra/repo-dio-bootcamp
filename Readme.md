@@ -24,7 +24,7 @@ Criei este repositório para praticar os comando GTI, projetos de teste desenvol
 
 **Wrapper: o container pai**
 
-  A _<<div>>_, cuja classe é 'instagram-wrapper',  contém duas columas: '.instagram-phone'    e '.instagram-continue'.
+  A div, cuja classe é 'instagram-wrapper',  contém duas columas: '.instagram-phone'    e '.instagram-continue'.
 
 Observação: o template de referência possui duas colunas e três containers. Vamos agrupar os elementos usando DIVs e classes específicas para identificá-las. 
 
