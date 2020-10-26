@@ -10,7 +10,7 @@
 
 ### Introdução
 
-Criei este repositório para praticar os comando GTI, projetos de teste desenvolvidos durante meus estudos pela faculdade e no Bootcamp da DIO.
+Criei este repositório para praticar os comando GIT, projetos de teste desenvolvidos durante meus estudos pela faculdade e no Bootcamp da DIO.
 
 ![Img](https://github.com/rubenslyra/repo-dio-bootcamp/blob/main/assets/img/screemshots/Recriano_Instagram_Login.png)
 
